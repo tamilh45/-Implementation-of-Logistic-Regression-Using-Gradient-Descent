@@ -84,7 +84,7 @@ print("Predicted Result:",y_prednew)
 
 ## Output:
 
-ACCURACY,ACTUAL AND PREDICTED VALUES:
+##ACCURACY,ACTUAL AND PREDICTED VALUES:
 
 ![328238019-fc78ffe5-3d9f-4aee-b22b-3af7aea9ad6f](https://github.com/user-attachments/assets/965496e7-75a5-452b-8e15-11dd5b75f6a4)
 
